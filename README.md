@@ -1,6 +1,7 @@
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-FF9E0F?style=for-the-badge&logo=JAVA&logoColor=white">
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <br>
