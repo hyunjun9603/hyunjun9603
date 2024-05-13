@@ -1,4 +1,4 @@
-I’m currently working as a developer in Seoul, Korea.
+I’m currently living in Busan, Korea.
 🌱 I’m currently learning everything I need to make good services.
 These are my favorite things. The list will be updated.
 <div align=center><h1>📚 STACKS</h1></div>
